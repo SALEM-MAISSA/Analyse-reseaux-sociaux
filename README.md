@@ -3,7 +3,7 @@
 Dans ce projet nous analysons un dataset de la communauté dissident de l'Eglise anglicane  nommé Quakres fondé en 17éme siecle 1601 .
 Ce projet est mené par un didacticiel se forme de google doc et source de données de fichier .csv traitées par le document electroniques Jupyter Notebook
 
-#le contenu du projet  : 
+# Le contenu du projet  : 
 
 -- Dans la premier partie -- 
 
@@ -23,7 +23,7 @@ Ce projet est mené par un didacticiel se forme de google doc et source de donn�
 
 -- Dans la deuxieme partie -- 
 
-#Identification des communautés
+# Identification des communautés
 
 * Propagation des labels
 
